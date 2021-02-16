@@ -1,3 +1,4 @@
 init << from git_study1 
 2 << from git_study1 / master
 3 << from git_study1 / master 
+2 << from git_study2 / rebase
