@@ -1,1 +1,2 @@
 init << from git_study1 
+2 << from git_study1 / master
